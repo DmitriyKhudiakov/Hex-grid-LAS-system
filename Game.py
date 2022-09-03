@@ -4,7 +4,7 @@ import sys
 
 # class of game
 class Game:
-    def __init__(self, fps=60, is_full_screen=False, width=1280, height=720):
+    def __init__(self, fps=60, is_full_screen=False, width=700, height=700):
         pg.init()
         # init main window size variables
         if is_full_screen:
