@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Run examples
+Run visualization
 ```bash
 main.py
 ```
